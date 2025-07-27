@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Isthmia</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 5rem; }
+    h1 { font-size: 3rem; color: #2b2b2b; }
+    p { font-size: 1.2rem; color: #555; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Isthmia</h1>
+  <p>Our website is under construction. Thank you for visiting!</p>
+</body>
+</html>
